@@ -1,0 +1,31 @@
+\t (00:01:20) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:20)     Journal start - Wed Jul 17 10:45:23 2019
+\t (00:01:20)         Host=USER-PC User=user Pid=6820 CPUs=4
+\t (00:01:20) CmdLine= allegro.exe -p .
+\t (00:01:20) 
+\t (00:01:20) Starting new design...
+\i (00:01:20) trapsize 303
+\i (00:01:20) trapsize 296
+\i (00:01:20) trapsize 303
+\i (00:01:20) trapsize 261
+\i (00:01:20) trapsize 507
+\i (00:01:21) trapsize 507
+\i (00:01:21) generaledit 
+\i (00:17:16) xhilite 
+\i (00:17:16) xname_flush 
+\i (00:17:16) done 
+\i (00:17:16) generaledit 
+\i (00:18:49) xhilite 
+\i (00:18:49) xname_flush 
+\i (00:18:49) done 
+\i (00:18:49) generaledit 
+\i (00:23:18) xhilite 
+\i (00:23:18) xname_flush 
+\i (00:23:18) done 
+\i (00:23:18) generaledit 
+\i (00:50:17) trapsize 552
+\i (00:53:05) new 
+\e (00:53:05) Do you want to save the changes you made to route1.brd?
+\i (00:53:08) fillin no 
+\i (00:53:26) newdrawfillin "atmega2560.dra" "Package Symbol (Wizard)"
+\t (00:53:26)     Journal end - Wed Jul 17 11:37:29 2019

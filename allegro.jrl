@@ -1,0 +1,18 @@
+\t (01:37:21) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (01:37:21)     Journal start - Wed Jul 17 13:44:45 2019
+\t (01:37:21)         Host=USER-PC User=user Pid=796 CPUs=4
+\t (01:37:21) CmdLine= allegro.exe -p .
+\t (01:37:21) 
+\d (01:37:21) Design opened: C:/Users/user/Desktop/exam/pcb_route/route1.brd
+\i (01:37:21) generaledit 
+\i (01:37:30) status 
+\i (01:37:30) generaledit 
+\i (01:37:41) setwindow form.status
+\i (01:37:41) FORM status done  
+\i (01:37:44) setwindow pcb
+\i (01:37:44) open 
+\i (01:38:01) fillin "C:\Users\user\Desktop\exam\samples\layout_samples_r02\layout_samples_r02\demob\demob2.brd"
+\i (01:38:01) cd "C:\Users\user\Desktop\exam\samples\layout_samples_r02\layout_samples_r02\demob"
+\t (01:38:01) Opening existing design...
+\i (01:38:01) trapsize 235
+\t (01:38:01)     Journal end - Wed Jul 17 13:45:25 2019
