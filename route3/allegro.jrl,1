@@ -1,0 +1,41 @@
+\t (00:00:22) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:22)     Journal start - Thu Jul 18 09:42:33 2019
+\t (00:00:22)         Host=USER-PC User=user Pid=2752 CPUs=4
+\t (00:00:22) CmdLine= allegro.exe -p .
+\t (00:00:22) 
+\d (00:00:22) Design opened: C:/Users/user/Desktop/exam/pcb_route/route3/route3.brd
+\i (00:00:23) generaledit 
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 2166.2 2675.3
+\i (00:00:23) trapsize 570
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 4675.5 1906.8
+\i (00:00:24) trapsize 285
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 1423.9 2226.0
+\i (00:00:24) trapsize 143
+\i (00:00:28) add connect 
+\t (00:00:28) Pick first element.
+\i (00:00:29) pick grid 3157.0 1918.2
+\t (00:00:29) last pick:  3150.0 1925.0
+\t (00:00:29) last pick:  3175.0 1900.0
+\t (00:00:29) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:00:29) last pick:  3175.0 1900.0
+\e (00:00:32) Command not found: pop toggle
+\e (00:00:32) Command not found: pop toggle
+\e (00:00:33) Command not found: pop toggle
+\e (00:00:33) Command not found: pop toggle
+\e (00:00:33) Command not found: pop toggle
+\e (00:00:34) Command not found: pop toggle
+\i (00:00:34) prepopup 3385.0 1889.7
+\i (00:00:41) done 
+\i (00:00:41) generaledit 
+\i (00:00:43) pick grid 3202.6 1923.9
+\t (00:00:43) last pick:  3200.0 1925.0
+\i (00:00:45) exit 
+\e (00:00:45) Do you want to save the changes you made to route3.brd?
+\i (00:00:46) fillin no 
+\t (00:00:46)     Journal end - Thu Jul 18 09:42:57 2019
